@@ -13,3 +13,4 @@ Technically, it uses the React-Native framework and API fetching.
 <img src="https://user-images.githubusercontent.com/54136990/231478926-af8a5368-1f06-4cc4-aeeb-560a1bfe0228.jpeg" height = "320" width = "160"/>
 </p>
 
+👉watch code and output video in master branch
